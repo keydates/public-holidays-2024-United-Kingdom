@@ -1,0 +1,93 @@
+{
+  "product": "United Kingdom Public Holidays 2024",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-01-01T12:00:00",
+      "endDate": "2024-01-01T12:00:00",
+      "source": "Government",
+      "product": "United Kingdom Public Holidays 2024",
+      "style": "blue",
+      "description": "Start the new year with celebrations and festivities."
+    },
+    {
+      "title": "Good Friday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-04-19T12:00:00",
+      "endDate": "2024-04-19T12:00:00",
+      "source": "Government",
+      "product": "United Kingdom Public Holidays 2024",
+      "style": "purple",
+      "description": "Commemorate the crucifixion of Jesus Christ."
+    },
+    {
+      "title": "Easter Monday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-04-22T12:00:00",
+      "endDate": "2024-04-22T12:00:00",
+      "source": "Government",
+      "product": "United Kingdom Public Holidays 2024",
+      "style": "light",
+      "description": "Celebrate the resurrection of Jesus Christ."
+    },
+    {
+      "title": "May Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-05-06T12:00:00",
+      "endDate": "2024-05-06T12:00:00",
+      "source": "Government",
+      "product": "United Kingdom Public Holidays 2024",
+      "style": "green",
+      "description": "Celebrate the start of spring with traditional May Day festivities."
+    },
+    {
+      "title": "Spring Bank Holiday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-05-27T12:00:00",
+      "endDate": "2024-05-27T12:00:00",
+      "source": "Government",
+      "product": "United Kingdom Public Holidays 2024",
+      "style": "teal",
+      "description": "Enjoy a day off in late spring."
+    },
+    {
+      "title": "Summer Bank Holiday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-08-26T12:00:00",
+      "endDate": "2024-08-26T12:00:00",
+      "source": "Government",
+      "product": "United Kingdom Public Holidays 2024",
+      "style": "yellow",
+      "description": "Celebrate the end of summer with a public holiday."
+    },
+    {
+      "title": "Christmas Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-12-25T12:00:00",
+      "endDate": "2024-12-25T12:00:00",
+      "source": "Government",
+      "product": "United Kingdom Public Holidays 2024",
+      "style": "red",
+      "description": "Celebrate the birth of Jesus Christ with family and friends."
+    },
+    {
+      "title": "Boxing Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-12-26T12:00:00",
+      "endDate": "2024-12-26T12:00:00",
+      "source": "Government",
+      "product": "United Kingdom Public Holidays 2024",
+      "style": "orange",
+      "description": "Traditionally a day for giving gifts to those less fortunate."
+    }
+  ]
+}
